@@ -1,0 +1,23 @@
+{
+  "name": "js-template",
+  "version": "1.0.0",
+  "description": "javascript template compile engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhou1988/js-template.git"
+  },
+  "keywords": [
+    "javascriot",
+    "template"
+  ],
+  "author": "samhou <samhou1988@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/samhou1988/js-template/issues"
+  },
+  "homepage": "https://github.com/samhou1988/js-template#readme"
+}
